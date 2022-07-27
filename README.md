@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 # Hi, welcome! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I'm a developer that in his 4th grade of Computer Engineering Bachelor's Degree at Gazi University, Engineering Department.
 
-I'm in close relationship with games since age 4. In 2021 Autumn I started searching about game development industry. Till then I'm learning about game development.
+I'm in close relationship with games since age 4. In 2021 Autumn I started searching about game development. Till then I'm learning about game development.
 
 Here are the projects I did in my college years:
 
