@@ -14,7 +14,7 @@ C# and Unity
 * [***Destination Game***](https://github.com/umutaan50/DestinationGame/tree/main/DestinationGame)
 * [*Two Player Car Racing Game*](https://github.com/umutaan50/TwoPlayerCarRacingGame/tree/main/TwoPlayerCarRacingGame/Assets)
 * [*Feed Them All Game*](https://github.com/umutaan50/FeedThemAllGame/tree/main/FeedThemAllGame/Assets)
-* [*Speedy Clicker Game*](https://github.com/umutaan50/ClickOrSlashGame/tree/main/ClickOrSlashGame/Assets)
+* [*Speedy Clicker Game*](https://github.com/umutaan50/SpeedyClickerGame/tree/main/SpeedyClickerGame/Assets)
 * [*Farmer Runner Game*](https://github.com/umutaan50/FarmerRunnerGame/tree/main/FarmerRunnerGame/Assets)
 * [*Goalkeeper Player Game*](https://github.com/umutaan50/GoalkeeperPlayerGame/tree/main/GoalkeeperPlayerGame/Assets)
 
