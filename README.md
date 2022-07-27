@@ -7,6 +7,8 @@ I'm a developer that in his 4th grade of Computer Engineering Bachelor's Degree 
 
 I'm in close relationship with games since age 4. In 2021 Autumn I started searching about game development and till then I'm learning and improving myself about it.
 
+My main focus is Unity Engine and I've started learning Blender.
+
 Here are the projects I did in during college:
 
 C# and Unity
