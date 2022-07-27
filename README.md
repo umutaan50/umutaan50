@@ -11,17 +11,17 @@ Here are the projects I did in my college years:
 
 C# and Unity
 ---
+* [***Destination Game***](https://github.com/umutaan50/DestinationGame/tree/main/DestinationGame)
+* [*Two Player Car Racing Game*](https://github.com/umutaan50/TwoPlayerCarRacingGame/tree/main/TwoPlayerCarRacingGame/Assets)
+* [*Feed Them All Game*](https://github.com/umutaan50/FeedThemAllGame/tree/main/FeedThemAllGame/Assets)
+* [*Speedy Clicker Game*](https://github.com/umutaan50/ClickOrSlashGame/tree/main/ClickOrSlashGame/Assets)
+* [*Farmer Runner Game*](https://github.com/umutaan50/FarmerRunnerGame/tree/main/FarmerRunnerGame/Assets)
+* [*Goalkeeper Player Game*](https://github.com/umutaan50/GoalkeeperPlayerGame/tree/main/GoalkeeperPlayerGame/Assets)
 
-* [Two Player Car Racing Game](https://github.com/umutaan50/TwoPlayerCarRacingGame/tree/main/TwoPlayerCarRacingGame/Assets)
-* [Feed Them All Game](https://github.com/umutaan50/FeedThemAllGame/tree/main/FeedThemAllGame/Assets)
-* [Speedy Clicker Game](https://github.com/umutaan50/ClickOrSlashGame/tree/main/ClickOrSlashGame/Assets)
-* [Farmer Runner Game](https://github.com/umutaan50/FarmerRunnerGame/tree/main/FarmerRunnerGame/Assets)
-* [Goalkeeper Player Game](https://github.com/umutaan50/GoalkeeperPlayerGame/tree/main/GoalkeeperPlayerGame/Assets)
-* [Destination Game](https://github.com/umutaan50/DestinationGame/tree/main/DestinationGame)
 
 
 
 Java
 ---
-* [Turn Based Adventure RPG](https://github.com/umutaan50/OOProjectTurnBasedAdventureRPG/tree/master/src/gazi/university)
+* [*Turn Based Adventure RPG*](https://github.com/umutaan50/OOProjectTurnBasedAdventureRPG/tree/master/src/gazi/university)
 
